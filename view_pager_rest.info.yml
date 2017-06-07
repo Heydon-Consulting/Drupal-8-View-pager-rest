@@ -1,0 +1,9 @@
+name: View pager rest
+description: Enable rest to access drupal pager info ( pager page count )
+package: Custom
+
+type: module
+core: 8.x
+
+dependencies:
+  - rest
